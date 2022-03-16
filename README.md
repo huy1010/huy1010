@@ -45,22 +45,6 @@
 ---
 
 
-<details>
-<summary><b>📺 Popular Projects</b> (Click to open)</summary><br/>
-<table>
-<tbody>
-<tr>
-<a href="https://github.com/ngoduongkha/Furniture-Shop-Backend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoduongkha&repo=Furniture-Shop-Backend" />
-</a>
-</tr>
-<a href="https://github.com/huongnguyenduc/cooking_master">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=huongnguyenduc&repo=cooking_master" />
-</a>
-</tr>
-</tbody>
-</table>
-</details>
 
 ---
 
