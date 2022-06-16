@@ -7,7 +7,7 @@
 
 
 - 👨‍🎓 I’m currently a `Software Engineering` student at [University Of Information Technology](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
-- 💻 I have `2.5 years` study and practice in `Software Development`
+- 💻 I have `3 years` study and practice in `Software Development`
 - 🌱 I love learning about Science and Technology
 - 💬 Ask me about anything, I am happy to help
 
