@@ -20,13 +20,12 @@
 
 ### ⚡ Technologies and Skills:  
 <code><img height="20" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 
-- Front-End:  **`HTML5`** **`CSS`** **`Javascript`** **`ReactJS`**
-- Back-End: **`Spring boot`** 
+- Front-End:  **`ReactJS`**
+- Back-End: **`Spring boot`** **`Nest JS`**
 - Database: **`Postgresql`** 
 
 
