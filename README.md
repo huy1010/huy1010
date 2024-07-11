@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Minh Huy Bui <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2> [![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:buiminhhuyqnam@gmail.com)
+<h2> Hi there, I'm Minh Huy Bui <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> [![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:buiminhhuyqnam@gmail.com)</h2> 
 
 <img  src="https://github-readme-stats.vercel.app/api?username=huy1010&show_icons=true">
 
