@@ -1,14 +1,15 @@
+<div align="center">
+    <h3>
+        <img src="https://avatars.githubusercontent.com/u/62228307" width="20" />
+        &nbsp;
+        huy1010
+      </h3>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=huy1010&show_icons=true">
-
-<a href="https://github.com/huy1010">
-    <img style="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huy1010&hide=jupyter%20notebook,html&langs_count=7&layout=compact" />
-</a>
-
-
----
-
-
-<br/><br/>
-<h4 align="center">VISITORS STATS</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{huy1010}/count.svg"/></p>
+  <a href="https://github.com/CatsJuice/ssr-contributions-img">
+     <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/iammola?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=green&dark=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/iammola?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=green">
+      <img src="https://ssr-contributions-svg.vercel.app/_/iammola?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=green&dark=true">
+    </picture>
+  </a>
+</div>
